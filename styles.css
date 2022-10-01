@@ -1,0 +1,91 @@
+ /* h1{
+    color:green;
+}
+
+p,li{
+    background-color: rgb(81, 200, 98);
+} 
+
+li{
+    list-style-type: square;
+}
+.spesal{
+    color :orange;
+    font-weight :bold;
+}
+
+li em {
+    color: rebeccapurple;
+  }
+  
+  h1 + p {
+    font-size: 200%;
+  }
+  a:link {
+    color: pink;
+  }
+  
+  a:visited {
+    color: green;
+  }
+  
+   */
+   /* body {
+    color: green;
+}
+          
+.my-class-1 a {
+    color: inherit;
+}
+          
+.my-class-2 a {
+    color: initial;
+}
+          
+.my-class-3 a {
+    color: unset;
+}
+     */
+
+     /* #outer div ul .nav a {
+      background-color: initial;
+      padding: 5px;
+      display: inline-block;
+      margin-bottom: 10px;
+    }
+
+    div div li a {
+      color: rebeccapurple;
+    }    */
+    /* a:hover{
+      color: hotpink;
+    }
+    a:link,
+    a:visited{
+      font-weight:bold;
+      color: green;
+    } */
+    /* ul li {
+      border : 5px solid red;
+    } */
+    h1{
+      color: blue;
+    }
+   
+    span{
+      font-size: 200%;
+    }
+    #special {
+      background-color: yellow;
+    }
+
+    .alert{
+      border: 1px solid grey;
+    }
+
+    .alert.stop{
+      background-color: red;
+    }
+    .alert.go{
+      background-color: green;
+    }
